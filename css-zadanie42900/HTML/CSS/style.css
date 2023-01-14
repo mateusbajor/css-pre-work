@@ -1,0 +1,19 @@
+/* Odwołanie przez selector */
+h1{
+    color: #00f;
+    text-align: center;
+}
+
+/* Odwołanie przez klasę */
+.paragraf{
+
+font-size: 20px;
+text-align: center;
+
+}
+
+/* Odwołanie przed id */
+#span1{
+
+    color: red;
+}

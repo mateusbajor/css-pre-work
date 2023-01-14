@@ -1,0 +1,20 @@
+h1{
+    font-size: 34px;
+    color: white;
+    padding-top: 10px;
+}
+
+.tło{
+    width: 400px;
+    height: 760px;
+    background-color: #808080;
+    padding-left: 40px;
+}
+
+.kwadrat{
+
+    width: 150px;
+    height: 150px;
+    background-color: #fea500;
+    margin-bottom: 10px;
+}

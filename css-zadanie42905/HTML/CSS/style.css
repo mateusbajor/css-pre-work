@@ -1,0 +1,15 @@
+h1{
+    background-color: darkgreen;
+}
+
+h3{
+background-color: chartreuse;
+}
+
+p{
+    color: darkgoldenrod;
+}
+
+h1 + h3{
+color: brown;
+}

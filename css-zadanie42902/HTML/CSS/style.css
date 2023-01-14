@@ -1,0 +1,65 @@
+.tło{
+    width: 600px;
+    height: 900px;
+    background-color: #f5f5dd;
+}
+
+#kwadrat1{
+
+    width: 170px;
+    height: 170px;
+    background-color: rgba(0, 0, 0, 1); /*Aleternatywnie użyć atrybuty opacity 0 - 1*/
+    margin-bottom: 10px;
+    
+    /* Wyśrodkowanie kwadratów wewnątrz tła */
+    position: relative;
+    top: 15%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+#kwadrat2{
+
+    width: 170px;
+    height: 170px;
+    background-color: rgba(0, 0, 0, 0.7);
+    margin-bottom: 10px;
+    
+    /* Wyśrodkowanie kwadratów wewnątrz tła */
+    position: relative;
+    top: 15%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+#kwadrat3{
+
+    width: 170px;
+    height: 170px;
+    background-color: rgba(0, 0, 0, 0.4);
+    margin-bottom: 10px;
+    
+    /* Wyśrodkowanie kwadratów wewnątrz tła */
+    position: relative;
+    top: 15%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+#kwadrat4{
+
+    width: 170px;
+    height: 170px;
+    background-color: rgba(0, 0, 0, 0.2);
+    margin-bottom: 10px;
+    
+    /* Wyśrodkowanie kwadratów wewnątrz tła */
+    position: relative;
+    top: 15%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}

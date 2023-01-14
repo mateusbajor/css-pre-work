@@ -1,0 +1,47 @@
+#section{
+background-color: lawngreen;
+}
+
+h1{
+background-color: aqua;
+}
+
+h2{
+background-color: aquamarine;
+
+}
+
+p1{
+background-color: blanchedalmond;
+
+}
+
+p2{
+background-color: cadetblue;
+
+}
+
+.lista{
+background-color: darkolivegreen;
+
+}
+
+#item1{
+    color: blueviolet;
+}
+
+#item2{
+    color: darkseagreen;
+}
+
+#item3{
+    color: darkred;
+}
+
+#item4{
+    color: darkkhaki;
+}
+
+#item5{
+    color: darkmagenta;
+}
