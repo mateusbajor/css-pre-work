@@ -8,12 +8,12 @@ h1 {
   font-weight: bold;
 }
 
-p1 {
+p:nth-last-of-type(2) {
   color: #a42423;
   font-size: 20px;
 }
 
-p2 {
+p:nth-last-of-type(1) {
   color: #00008f;
   font-size: 20px;
 }
